@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/pixel-art-gardening-tool_150088-583.jpg-41c4480ae30da99fec9aca0519b2a2c3.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Imagens/pixel-art-gardening-tool_150088-583.jpg"
+dest_files=[ "res://.import/pixel-art-gardening-tool_150088-583.jpg-41c4480ae30da99fec9aca0519b2a2c3.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
